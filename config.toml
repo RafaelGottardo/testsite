@@ -1,1 +1,10 @@
 theme = 'ananke'
+params:
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com/RafaelGottardo
+  - name: github
+    url: http://github.com/rafceegee
+  - name: linkedin
+    url: https://www.linkedin.com/in/rafael-campos-gottardo
+    rel: me noopener
