@@ -1,5 +1,3 @@
-baseURL = "https://rafceegee.github.io"
-languageCode = "en-us"
 theme = 'ananke'
 [[params.ananke_socials]]
 name = "twitter"
